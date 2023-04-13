@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HendrickPacule</string>
+    <string name="id_ed">Insira seu id</string>
+    <string name="titulo_ed">Insira seu titulo</string>
+    <string name="ano_ed">Insira o ano</string>
+    <string name="autor_ed">Insira o autor</string>
+    <string name="editora">Insira a editora</string>
+</resources>
